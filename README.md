@@ -1,5 +1,4 @@
-# stem-absenteeism-ks5-uk
- **Objective**: Predict protein expression directly from histology image patches (train/val on B1, C1, D1; hold out A1 for final test).
+**Objective**: Predict protein expression directly from histology image patches (train/val on B1, C1, D1; hold out A1 for final test).
 
 **Scope**:<br/>
 **Single-target**: CD11b protein only.<br/>
